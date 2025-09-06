@@ -166,6 +166,5 @@ Sumit Suresh Madhav is a Data Analyst with over 8 years of experience turning co
 **Key Skills:** SQL, MySQL, PostgreSQL, MS SQL Server, Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), R (ggplot2, dplyr, tidyverse, caret), DAX, Airflow, Alteryx, Informatica
 
 **Contact:**
-- GitHub: [SumitMadhav](https://github.com/SumitMadhav)
+- GitHub: [SumitMadhav](https://github.com/sumitmadhav)
 - Email: madhavsumit369@gmail.com
-- LinkedIn: [Sumit Suresh Madhav](https://www.linkedin.com/in/sumit-suresh-madhav)
