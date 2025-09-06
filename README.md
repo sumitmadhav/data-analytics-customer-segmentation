@@ -152,11 +152,6 @@ The tools used in this project include:
 ## Project Maintainer
 - Sumit Suresh Madhav - [Github Profile](https://github.com/SumitMadhav)
   - Email: madhavsumit369@gmail.com
-  - LinkedIn: [Sumit Suresh Madhav](https://www.linkedin.com/in/sumit-suresh-madhav)
-
-## Original Contributor
-- Abhishek Chowdhury - [Github Profile](https://github.com/AbhishekGit-hash)
-
 ---
 
 ## About the Maintainer
