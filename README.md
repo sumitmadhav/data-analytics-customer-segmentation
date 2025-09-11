@@ -142,6 +142,8 @@ The datasets used include:
 The tools used in this project include:
 - **Python** - This was needed to conduct **Data Quality Assessment** and also for **Data Cleaning processes**. With Python libraries **pandas, matplotlib, seaborn** exploratory data analysis of the datasets and to gain useful insights from the data was possible.
 - **Tableau** - This **Business Intelligence** tool was required to explore data and create charts, graphs, visualizations to come up with a **Sales Dashboard for Customer Segmenatation** for the automobile bike company. The Tableau Sales Dashboard can be found [here](https://public.tableau.com/profile/abhishek.chowdhury#!/vizhome/CustomerSegmentationDashboard_16175595616510/RFMDashboard)
+  <img width="1395" height="456" alt="image" src="https://github.com/user-attachments/assets/7b985853-a25c-44d2-9fd7-18aa778cad0d" />
+
 
 
 ## Built With
