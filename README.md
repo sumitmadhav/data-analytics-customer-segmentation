@@ -152,16 +152,16 @@ The tools used in this project include:
 - Python 3.8.2, Tableau
 
 ## Project Maintainer
-- Sumit Suresh Madhav - [Github Profile](https://github.com/SumitMadhav)
-  - Email: madhavsumit369@gmail.com
+- Sumit  Madhav - [Github Profile](https://github.com/SumitMadhav)
+  - Email: sumit11bhaga@gmail.com
 ---
 
 ## About the Maintainer
 
-Sumit Suresh Madhav is a Data Analyst with over 8 years of experience turning complex data into actionable insights that drive strategic decision-making. He has a proven track record of leveraging advanced analytics, statistical modeling, and data visualization to optimize business processes, enhance performance, and identify growth opportunities. Sumit is highly skilled in SQL, Python, Tableau, and Excel, with deep expertise in data mining, A/B testing, and KPI development. He is adept at collaborating across cross-functional teams to deliver high-impact solutions and improve organizational outcomes.
+Sumit Madhav is a Data Analyst with over 8 years of experience turning complex data into actionable insights that drive strategic decision-making. He has a proven track record of leveraging advanced analytics, statistical modeling, and data visualization to optimize business processes, enhance performance, and identify growth opportunities. Sumit is highly skilled in SQL, Python, Tableau, and Excel, with deep expertise in data mining, A/B testing, and KPI development. He is adept at collaborating across cross-functional teams to deliver high-impact solutions and improve organizational outcomes.
 
 **Key Skills:** SQL, MySQL, PostgreSQL, MS SQL Server, Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn), R (ggplot2, dplyr, tidyverse, caret), DAX, Airflow, Alteryx, Informatica
 
 **Contact:**
 - GitHub: [SumitMadhav](https://github.com/sumitmadhav)
-- Email: madhavsumit369@gmail.com
+- Email: sumit11bhaga@gmail.com
